@@ -1,6 +1,6 @@
-Temp/
-Library/
-obj/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
 
 *.svd
 *.userprefs
