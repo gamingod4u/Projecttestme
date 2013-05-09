@@ -1,0 +1,20 @@
+Temp/
+Library/
+obj/
+
+*.svd
+*.userprefs
+*.unityproj
+*.sln
+*.csproj
+*.pidb
+ 
+!Library/*.asset
+!Library/AssetImportState
+!Library/AssetVersioning.db
+!Library/BuildPlayer.prefs
+!Library/ScriptMapper
+!Library/assetservercachev3
+!Library/guidmapper
+!Library/unity default resources
+!Library/unity editor resources
