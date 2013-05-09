@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Assets\Scenes\Level\PlayerScript.js">
+    <Files>
+      <File FileName="Assets\Assets\Scenes\Level\PlayerScript.js" Line="10" Column="1" />
+      <File FileName="Assets\Assets\Prefabs\smlAsteriod\smlAsteriodScript.js" Line="24" Column="1" />
+      <File FileName="Assets\Assets\Prefabs\lrgAsteriod\LrgAsteriodScript.js" Line="8" Column="20" />
+      <File FileName="Assets\Assets\Earth\earthScript.js" Line="5" Column="24" />
+      <File FileName="Assets\Assets\Scenes\GameOver\NewBehaviourScript.js" Line="42" Column="2" />
+      <File FileName="Assets\Assets\Scenes\Main\MainScript.js" Line="4" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
